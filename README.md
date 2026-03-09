@@ -7,6 +7,7 @@ PC installed with SCILAB
 ## PROGRAM:
 ### LINEAR CONVOLUTION
 <br>
+
 ```
 clc;
 clear;
@@ -58,22 +59,26 @@ title('Graphical Representation of Output Signal y');
 ### CALCULATIONS:
 <br>
 
-![WhatsApp Image 2026-03-09 at 7 00 23 PM](https://github.com/user-attachments/assets/5ed1273e-6a13-4aa4-a791-4101fe722c14)
+![WhatsApp Image 2026-03-09 at 7 00 23 PM](https://github.com/user-attachments/assets/6c736881-f1ba-46c1-b89e-7c84814268d4)
 
-
-![WhatsApp Image 2026-03-09 at 7 00 49 PM](https://github.com/user-attachments/assets/5f64eec5-0785-4eaa-a1aa-e5021ff02ede)
-
+![WhatsApp Image 2026-03-09 at 7 00 49 PM](https://github.com/user-attachments/assets/aeeae18a-8ef5-4009-9c37-6418ddf722c4)
 
 <br>
+<br>
+
 ### SAMPLE OUTPUT:
 <br>
+<br>
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/b2e2ac31-2090-43b1-b8b7-b2d6f169a182" />
 
-<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/1051bf33-c22f-4f5a-b47b-4d4d9539432f" />
 
 <br>
-
-## CIRCULAR CONVOLUTION
 <br>
+
+## CIRCULAR CONVOLUTION:
+<br>
+<br>
+
 ```
 clc;
 clear;
@@ -127,20 +132,27 @@ plot2d3(n3, y);
 xlabel('time');
 ylabel('amplitude');
 title('circular convolution');
+
 ```
-<br>
+
 ### CALCULATIONS:
-<br>
-
-![WhatsApp Image 2026-03-09 at 7 01 14 PM](https://github.com/user-attachments/assets/85e18795-fc00-453f-a131-dd05128a17e1)
 
 <br>
+<br>
+
+![WhatsApp Image 2026-03-09 at 7 01 14 PM](https://github.com/user-attachments/assets/ee2473e1-94fd-404b-b5d2-06c8367f64b3)
+
+
+<br>
+
 ### SAMPLE OUTPUT:
 <br>
 
-<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/4ba2fb4a-66f2-461a-bcb4-9f35173d4207" />
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/0b51e070-ca2d-40b7-9702-3b567f6c062a" />
 
 <br>
+<br>
+
 
 ## RESULT:
 Thus, the linear convolution and circular convolution of the two given sequences were performed and its result was verified.
